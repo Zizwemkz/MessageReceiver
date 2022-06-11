@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb14Bf/0hbilgI+4Q4k0WGA2BbPNvQwBDmF3joADzXr3WHv+Cmho2cOA9f0fBrHL7dfxR9NcakjxHUBElaMFTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbongenim\\source\\Pracrepo\\MessageReceiver\\MessageReceiver\\MessageReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbongenim\\.nuget\\packages\\rabbitmq.client\\6.3.1\\rabbitmq.client.6.3.1.nupkg.sha512",
+    "C:\\Users\\mbongenim\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mbongenim\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
