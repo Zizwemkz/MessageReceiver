@@ -17,7 +17,7 @@ class Program
         var _ReceiveService = container.GetService<IReceiver>();
 
         var message = _ReceiveService.ReceiveEvent();
-        if (!message.Equals(" "))
+        if (!message.Equals(""))
         {
             Console.WriteLine(" *** Waiting for messages from queue..");
             Console.WriteLine("Received the following message: {0}", message);
