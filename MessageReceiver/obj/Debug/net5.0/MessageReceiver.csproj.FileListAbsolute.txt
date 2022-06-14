@@ -34,3 +34,7 @@ C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\obj\Debug\net
 C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\obj\Debug\net5.0\ref\MessageReceiver.dll
 C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\obj\Debug\net5.0\MessageReceiver.pdb
 C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\obj\Debug\net5.0\MessageReceiver.genruntimeconfig.cache
+C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mbongenim\source\Pracrepo\MessageReceiver\MessageReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
